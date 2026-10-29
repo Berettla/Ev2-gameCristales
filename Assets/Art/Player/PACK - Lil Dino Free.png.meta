@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: 6989477d291a50c49945b0fc0e28acdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6789300379736765006
+    second: PACK - Lil Dino Free_0
+  - first:
+      213: 1982470898969202922
+    second: PACK - Lil Dino Free_1
+  - first:
+      213: 3271567648623463875
+    second: PACK - Lil Dino Free_2
+  - first:
+      213: -9049531241527977090
+    second: PACK - Lil Dino Free_3
+  - first:
+      213: 1357874346623011459
+    second: PACK - Lil Dino Free_4
+  - first:
+      213: -5860637782042890414
+    second: PACK - Lil Dino Free_5
+  - first:
+      213: 948687362701099609
+    second: PACK - Lil Dino Free_6
+  - first:
+      213: -2443897818309488669
+    second: PACK - Lil Dino Free_7
+  - first:
+      213: -2553833643609575712
+    second: PACK - Lil Dino Free_8
+  - first:
+      213: -1081579270647528989
+    second: PACK - Lil Dino Free_9
+  - first:
+      213: 2278485049822613474
+    second: PACK - Lil Dino Free_10
+  - first:
+      213: 8014011104561113642
+    second: PACK - Lil Dino Free_11
+  - first:
+      213: -7025039779361204702
+    second: PACK - Lil Dino Free_12
+  - first:
+      213: -671068296896926705
+    second: PACK - Lil Dino Free_13
+  - first:
+      213: 5713538802666460141
+    second: PACK - Lil Dino Free_14
+  - first:
+      213: -4402037433928803493
+    second: PACK - Lil Dino Free_15
+  - first:
+      213: -3485814528155109686
+    second: PACK - Lil Dino Free_16
+  - first:
+      213: -7607068252095064433
+    second: PACK - Lil Dino Free_17
+  - first:
+      213: 3795682926476306146
+    second: PACK - Lil Dino Free_18
+  - first:
+      213: 4034825999314654247
+    second: PACK - Lil Dino Free_19
+  - first:
+      213: -4760926200086393950
+    second: PACK - Lil Dino Free_20
+  - first:
+      213: 5918416430242522346
+    second: PACK - Lil Dino Free_21
+  - first:
+      213: 2953470239068606387
+    second: PACK - Lil Dino Free_22
+  - first:
+      213: -2408823712650560318
+    second: PACK - Lil Dino Free_23
+  - first:
+      213: -3085607843759451711
+    second: PACK - Lil Dino Free_24
+  - first:
+      213: 9095897000961385435
+    second: PACK - Lil Dino Free_25
+  - first:
+      213: -6742763180129706827
+    second: PACK - Lil Dino Free_26
+  - first:
+      213: 2888994910307052701
+    second: PACK - Lil Dino Free_27
+  - first:
+      213: -6516454130502817633
+    second: PACK - Lil Dino Free_28
+  - first:
+      213: 6775332521106894641
+    second: PACK - Lil Dino Free_29
+  - first:
+      213: -1888289159668958394
+    second: PACK - Lil Dino Free_30
+  - first:
+      213: 6809241314930547524
+    second: PACK - Lil Dino Free_31
+  - first:
+      213: -1522985453630491646
+    second: PACK - Lil Dino Free_32
+  - first:
+      213: 7304296951082660185
+    second: PACK - Lil Dino Free_33
+  - first:
+      213: -8407722098086632586
+    second: PACK - Lil Dino Free_34
+  - first:
+      213: 9200369568022656816
+    second: PACK - Lil Dino Free_35
+  - first:
+      213: -2383178345990647846
+    second: PACK - Lil Dino Free_36
+  - first:
+      213: 4164051516526040112
+    second: PACK - Lil Dino Free_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8d50a64f87c1a0800000000000000
+      internalID: -6789300379736765006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0db9e67c6238b10800000000000000
+      internalID: 1982470898969202922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd8cd26171f66d20800000000000000
+      internalID: 3271567648623463875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bdce4484b996280800000000000000
+      internalID: -9049531241527977090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a8410268328d210800000000000000
+      internalID: 1357874346623011459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa91cfcf4daaea0800000000000000
+      internalID: -5860637782042890414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95283b8412a6a2d00800000000000000
+      internalID: 948687362701099609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef8f40f1e7851ed0800000000000000
+      internalID: -2443897818309488669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eea539f4d5fe8cd0800000000000000
+      internalID: -2553833643609575712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1c0a042657df0f0800000000000000
+      internalID: -1081579270647528989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef07b4b41ece9f10800000000000000
+      internalID: 2278485049822613474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aa669b3ac773f60800000000000000
+      internalID: 8014011104561113642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226df2a7a8b028e90800000000000000
+      internalID: -7025039779361204702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cae6f70f2efa6f0800000000000000
+      internalID: -671068296896926705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de35857f4419a4f40800000000000000
+      internalID: 5713538802666460141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b93bed642d8e2c0800000000000000
+      internalID: -4402037433928803493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63b60c726ef9fc0800000000000000
+      internalID: -3485814528155109686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86d8bb8ab34e6690800000000000000
+      internalID: -7607068252095064433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6a2a0e289fca430800000000000000
+      internalID: 3795682926476306146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72419a37ed49ef730800000000000000
+      internalID: 4034825999314654247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab000278dacdedb0800000000000000
+      internalID: -4760926200086393950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e07dd260722250800000000000000
+      internalID: 5918416430242522346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf4f56c885dcf820800000000000000
+      internalID: 2953470239068606387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccfce88893229ed0800000000000000
+      internalID: -2408823712650560318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11f8ca308bd25d0800000000000000
+      internalID: -3085607843759451711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd328d7512e1b3e70800000000000000
+      internalID: 9095897000961385435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc19c3cc94ec62a0800000000000000
+      internalID: -6742763180129706827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c63ca7095c71820800000000000000
+      internalID: 2888994910307052701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PACK - Lil Dino Free_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a0447e77e095a0800000000000000
+      internalID: -6516454130502817633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7711bf93905d6e146bd30ad34eddad41
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PACK - Lil Dino Free_0: -6789300379736765006
+      PACK - Lil Dino Free_1: 1982470898969202922
+      PACK - Lil Dino Free_10: 2278485049822613474
+      PACK - Lil Dino Free_11: 8014011104561113642
+      PACK - Lil Dino Free_12: -7025039779361204702
+      PACK - Lil Dino Free_13: -671068296896926705
+      PACK - Lil Dino Free_14: 5713538802666460141
+      PACK - Lil Dino Free_15: -4402037433928803493
+      PACK - Lil Dino Free_16: -3485814528155109686
+      PACK - Lil Dino Free_17: -7607068252095064433
+      PACK - Lil Dino Free_18: 3795682926476306146
+      PACK - Lil Dino Free_19: 4034825999314654247
+      PACK - Lil Dino Free_2: 3271567648623463875
+      PACK - Lil Dino Free_20: -4760926200086393950
+      PACK - Lil Dino Free_21: 5918416430242522346
+      PACK - Lil Dino Free_22: 2953470239068606387
+      PACK - Lil Dino Free_23: -2408823712650560318
+      PACK - Lil Dino Free_24: -3085607843759451711
+      PACK - Lil Dino Free_25: 9095897000961385435
+      PACK - Lil Dino Free_26: -6742763180129706827
+      PACK - Lil Dino Free_27: 2888994910307052701
+      PACK - Lil Dino Free_28: -6516454130502817633
+      PACK - Lil Dino Free_3: -9049531241527977090
+      PACK - Lil Dino Free_4: 1357874346623011459
+      PACK - Lil Dino Free_5: -5860637782042890414
+      PACK - Lil Dino Free_6: 948687362701099609
+      PACK - Lil Dino Free_7: -2443897818309488669
+      PACK - Lil Dino Free_8: -2553833643609575712
+      PACK - Lil Dino Free_9: -1081579270647528989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
